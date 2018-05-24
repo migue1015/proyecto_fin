@@ -1,0 +1,77 @@
+html, body{
+    background-color: rgb(247, 244, 232);
+    font-size: 15px;
+    font-weight: bold;
+}
+#mercado1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;  
+}
+#tra1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#ser1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#mov1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#arr1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#edu1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#vij1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#sal1{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#mov{
+    border:2px solid #f78504;  
+}
+#ser{
+    border:2px solid #f78504;  
+}
+#tra{
+    border:2px solid #f78504;  
+}
+#mercado{
+    border:2px solid #f78504;  
+}   
+#arr{
+    border:2px solid #f78504;  
+}
+#vij{
+    border:2px solid #f78504;  
+}
+#sal{
+    border:2px solid #f78504;  
+} 
+#edu{
+    border:2px solid #f78504;  
+}   
